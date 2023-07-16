@@ -1,5 +1,5 @@
 # PROYECTO F. BORJA MOLL, N2 DISEÑO WEB 2023.
-## Actualizado 2023/01/21
+## Actualizado 2023/01/21 
 ---
 ## EN ESTE DIRECTORIO Mod_Contacto/ SE COMPILAN LOS ARCHIVOS NECESARIOS PARA CRUD BBDD CONTACTOS:
 - Comprobar la conexión básica a la bbdd.
